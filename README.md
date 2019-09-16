@@ -1,6 +1,6 @@
 # React 服务器端渲染 Demo
 
-最近在学习 React 的服务端渲染，什么是前后端同构[这里](),于是使用 Express + React 写了一个 Demo，用于对比和客户端渲染的差异。如果想直接学习搭建 SSR，直接看[这里](https://github.com/qicainiao/react-ssr-demo/STEP.md)。
+最近在学习 React 的服务端渲染，什么是前后端同构[这里](https://github.com/qicainiao/react-ssr-demo/blob/master/%E5%90%8C%E6%9E%84.md),于是使用 Express + React 写了一个 Demo，用于对比和客户端渲染的差异。如果想直接学习搭建 SSR，直接看[这里](https://github.com/qicainiao/react-ssr-demo/blob/master/STEP.md)。
 
 先看一下效果吧：
 
